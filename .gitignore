@@ -1,0 +1,4 @@
+.idea
+node_modules
+config/defoult.json
+config/production.json
